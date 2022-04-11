@@ -1,0 +1,17 @@
+
+h1{
+    font-size: xx-large;
+    color: rgb(19, 19, 209);
+    text-align: center; 
+    background-color: rgb(57, 173, 235); 
+}
+
+body{
+background-image: url(https://cdn.wallpapersafari.com/54/17/InGkYL.jpg);
+    padding-left: 350px;
+    padding-top: 100px;
+}
+#f1{
+    width: 500px;
+    background-color: rgb(157, 180, 255);
+}
